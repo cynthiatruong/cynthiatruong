@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cynthiatruong
+- 👋 Hi, I’m Cynthia.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Front-End Developer.
 - 💞️ I’m looking to collaborate on front-end development.
